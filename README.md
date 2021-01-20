@@ -25,3 +25,35 @@ Three gas sensors, from left to right,
 A light control module relied on motion sensor detection sensor for automatic operation and a 30V relay acting as an electrical switch. For demonstrative purposes RGB LED strip was used as a light source.
 
 Other parts, including sliding Single Pole Double Throw switches, PCB boards and jumper wires were used for prototyping and final product.  
+
+![image](https://user-images.githubusercontent.com/69605343/105239344-cbc75080-5b3a-11eb-9002-553c0a45778a.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239396-cf5ad780-5b3a-11eb-9d63-1c7c1a71b9fb.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239463-d2ee5e80-5b3a-11eb-9ef4-3b49e9bad6fb.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239524-d71a7c00-5b3a-11eb-9862-83fa6f3330cb.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239611-dc77c680-5b3a-11eb-80f2-2a33e9ce3a95.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239673-e0a3e400-5b3a-11eb-8047-ec8c5eb89b14.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239790-e7caf200-5b3a-11eb-82b2-5ff0ff7feafe.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239830-eb5e7900-5b3a-11eb-80f7-9caae7e15c8f.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239884-ef8a9680-5b3a-11eb-8af8-38657622f40c.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105239951-f44f4a80-5b3a-11eb-95ce-83270b0cdb14.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105240015-f7e2d180-5b3a-11eb-936c-4a066660ac77.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105240083-fc0eef00-5b3a-11eb-813f-ab1cbf60d88b.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105240160-003b0c80-5b3b-11eb-8358-884bf9816aa3.png)
+
+
+
+
+
+
