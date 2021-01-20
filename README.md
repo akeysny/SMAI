@@ -1,0 +1,2 @@
+# SMAI
+Smart Mirror AI
