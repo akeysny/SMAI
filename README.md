@@ -56,6 +56,7 @@ Magic Mirror SMAI, which we like to call Smart Mirror AI makes a great iOT proje
 In this paper, we also explore the feasibility of launching inaudible ultrasonic attack leveraging solid material as a transmission medium. Compare to the previous studies on over-the-air transmission, our proposed attack SurfingAttack can conceal itself within/beneath the materials, offering new avenues to launch inaudible attack in a previously unavailable setting. Leveraging the energy delivery form of ultrasonic guided wave, SurfingAttack proves to be an effective and economic attack, successfully attacking devices across a long distance through a 30ft long table with only 0.75W attack signal power. Extensive experiments were conducted to explore the extent of this newly discovered threat as well as its limitation. Furthermore, recognizing that voice controllable devices are designed to enable conversations between human and computer, we further extend our attack to listen to the voice responses with minimal volume, enabling conversations between the adversary and the voice controllable device. Using SurfingAttack, we can demonstrate potential attacks that will allow an adversary to hack the SMS passcode or make a fraud phone call. There are also available discussions and several defenses to mitigate SurfingAttack.
 
 
+![image](https://user-images.githubusercontent.com/69605343/105242973-66745f00-5b3c-11eb-9730-61222ccdde29.png)
 
 
 
