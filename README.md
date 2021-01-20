@@ -7,3 +7,5 @@ Abstract: To design an Advanced Smart Mirror technology which is also known as M
 
 -The mirror offers natural mode of interfaction through which users can use and experience the AI chat assistant. The AI has speech recognition and can respond to a variety of commands. Ability to interact with the personal assistant though Google chat assistant that provides the most natural and convinient mode of interaction. Our Smart Mirror is assembled using a one-way mirror, computer monitor using HDMI socket along with HDMI cable, raspberry pi 4, USB microphone and speaker.
 ![image](https://user-images.githubusercontent.com/69605343/105234810-a9810300-5b39-11eb-800a-ffb023290a20.png)
+
+![image](https://user-images.githubusercontent.com/69605343/105235659-dfbe8280-5b39-11eb-8171-dc7a71d9d70b.png)
