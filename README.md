@@ -52,8 +52,6 @@ Other parts, including sliding Single Pole Double Throw switches, PCB boards and
 
 ![image](https://user-images.githubusercontent.com/69605343/105240160-003b0c80-5b3b-11eb-8358-884bf9816aa3.png)
 
-![image](https://user-images.githubusercontent.com/69605343/105241317-7dff1800-5b3b-11eb-8d89-7ad5d86b27fb.png)
-
 
 
 
