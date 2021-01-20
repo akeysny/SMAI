@@ -52,6 +52,10 @@ Other parts, including sliding Single Pole Double Throw switches, PCB boards and
 
 ![image](https://user-images.githubusercontent.com/69605343/105240160-003b0c80-5b3b-11eb-8358-884bf9816aa3.png)
 
+Magic Mirror SMAI, which we like to call Smart Mirror AI makes a great iOT project, it features face detection module so you can have access to your individual profiles, with a Voice Assistant interface and you can control your favorite YouTube videos or Spotify music. With an interactive display, you will always have access to your weekly weather, your synced google calendar, news and as we have mentioned already, you can control your music. We have built our SMAI with an RPI-4 and a Magic Mirror Software inspired by MichMich.
+In this paper, we also explore the feasibility of launching inaudible ultrasonic attack leveraging solid material as a transmission medium. Compare to the previous studies on over-the-air transmission, our proposed attack SurfingAttack can conceal itself within/beneath the materials, offering new avenues to launch inaudible attack in a previously unavailable setting. Leveraging the energy delivery form of ultrasonic guided wave, SurfingAttack proves to be an effective and economic attack, successfully attacking devices across a long distance through a 30ft long table with only 0.75W attack signal power. Extensive experiments were conducted to explore the extent of this newly discovered threat as well as its limitation. Furthermore, recognizing that voice controllable devices are designed to enable conversations between human and computer, we further extend our attack to listen to the voice responses with minimal volume, enabling conversations between the adversary and the voice controllable device. Using SurfingAttack, we can demonstrate potential attacks that will allow an adversary to hack the SMS passcode or make a fraud phone call. There are also available discussions and several defenses to mitigate SurfingAttack.
+
+
 
 
 
